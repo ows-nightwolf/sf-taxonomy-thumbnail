@@ -1,0 +1,65 @@
+# LANGUAGE Russian translation for SF Taxonomy Thumbnail plugin for WordPress.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sf-taxonomy-thumbnail 1.0\n"
+"Report-msgid -Bugs-To: Alex Vasiuro <nightwolf4343@mail.ru>\n"
+"POT-Creation-Date: 2015-06-08 04:40+0100\n"
+"PO-Revision-Date: 2016-12-17 01:39+0300\n"
+"Last-Translator: Alex Vasiuro <nightwolf4343@mail.ru>\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: sf-taxonomy-thumbnail.php
+msgid "Add a thumbnail to your taxonomy terms."
+msgstr "Добавьте миниатюру к вашим элементам таксономии."
+
+#: inc/admin.php
+msgid "Indicate an image ID"
+msgstr "Укажите ID изображения"
+
+msgid "Set a thumbnail"
+msgstr "Задать миниатюру"
+
+msgid "Change thumbnail"
+msgstr "Изменить миниатюру"
+
+msgid "Remove thumbnail"
+msgstr "Удалить миниатюру"
+
+msgid "Choose Thumbnail"
+msgstr "Выбeрите миниатюру"
+
+msgid "Select thumbnail"
+msgstr "Задать миниатюру"
+
+msgid "Loading&hellip;"
+msgstr "Загрузка&#8230;"
+
+msgid "Thumbnail successfully set to this term."
+msgstr "Миниатюра успешно установлена"
+
+msgid "Thumbnail successfully removed from this term."
+msgstr "Миниатюра успешно удалена"
+
+msgid ""
+"An error occurred, the thumbnail could not be set to this term. Try to "
+"update the term manually."
+msgstr ""
+"Возникла ошибка, миниатюра не может быть установлена для данного элемента. "
+"Попробуйте обновить элемент вручную."
+
+msgid ""
+"An error occurred, the thumbnail could not be removed from this term. Try to "
+"update the term manually."
+msgstr ""
+"Возникла ошибка, для этого элемента миниатюра не может быть удалена. "
+"Попробуйте обновить элемент вручную."
